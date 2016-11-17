@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"SyncedSidebarBg",
+		"Vintage"
+	]
+}

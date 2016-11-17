@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"Babel",
+		"Bootstrap 4 Snippets",
+		"Ecmascript Syntax",
+		"EJS",
+		"EJS 2",
+		"iLorem",
+		"Laravel 4 Snippets",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Predawn",
+		"React Development Snippets",
+		"React Templates",
+		"SublimeLinter-jsdebugmarkers",
+		"SyncedSidebarBg",
+		"Terminal",
+		"Theme - Primer",
+		"View In Browser"
+	]
+}

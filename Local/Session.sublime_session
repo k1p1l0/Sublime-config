@@ -1,0 +1,2226 @@
+{
+	"folder_history":
+	[
+		"/E/ReHLDS ZM/Source",
+		"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions",
+		"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react",
+		"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count",
+		"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut",
+		"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut",
+		"/E/OpenServer/OpenServer/domains/developerstoday",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/react",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/screencast-express",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/angular-lb",
+		"/E/OpenServer/OpenServer/domains/empeek",
+		"/E/OpenServer/OpenServer/domains/loftblog.lc",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/auth-express",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/meteor",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/gof",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/Chatty",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/router",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/countries/public",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/countries",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/toDelete",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/comparator",
+		"/E/OpenServer/OpenServer/domains/html.lcc",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/neDb",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-10-coutries-summary",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/express",
+		"/C/Users/kiril/OneDrive/Documents",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/backbone",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-10-coutries-summary/public",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-9-server-clock",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-9-server-clock/public",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-9-server-clock/public/js/app/clock",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-8-clock-proto",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/ss-7-colorlist",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/clock",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/dialogue",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/list/ss-4-list-js",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/node",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/list",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/form",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/other",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/proto",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/form/ss-3-form-js",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/med_with_contr",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/reg",
+		"/E/OpenServer/OpenServer/domains/refactoring",
+		"/E/OpenServer/OpenServer/domains/js.lc/art",
+		"/C/Users/kiril/OneDrive/Documents/League of Legends",
+		"/E/OpenServer/OpenServer/domains/softserve.lc/formMV",
+		"/E/OpenServer/OpenServer/domains/js.lc/poly",
+		"/E/OpenServer/OpenServer/domains/js.lc/unit",
+		"/E/OpenServer/OpenServer/domains/js.lc/basic",
+		"/E/OpenServer/OpenServer/domains/js.lc/dom",
+		"/E/OpenServer/OpenServer/domains/js.lc/form",
+		"/E/OpenServer/OpenServer/domains/html.lcc/day2",
+		"/E/OpenServer/OpenServer/domains/js.lc/this",
+		"/E/OpenServer/OpenServer/domains/html.lcc/day1",
+		"/E/OpenServer/OpenServer/domains/html.lc/day1",
+		"/E/OpenServer/OpenServer/domains/js.lc/softserv",
+		"/E/OpenServer/OpenServer/domains/js.lc/table",
+		"/E/OpenServer/OpenServer/domains/js.lc/proto",
+		"/E/OpenServer/OpenServer/domains/cs-zephyr.lc",
+		"/E/OpenServer/OpenServer/domains/laracasts.lc",
+		"/E/OpenServer/OpenServer/domains/php.lc",
+		"/E/OpenServer/OpenServer/domains/js.lc",
+		"/E/OpenServer/OpenServer/domains/mymymy.lc",
+		"/E/OpenServer/OpenServer/domains/com.lc",
+		"/E/OpenServer/OpenServer/domains/hitzpanel.lc",
+		"/E/OpenServer/OpenServer/domains/inspector.lc",
+		"/E/OpenServer/OpenServer/domains/laravel.lc/laravel",
+		"/E/OpenServer/OpenServer/domains/test.lc"
+	],
+	"last_version": 3103,
+	"last_window_id": 186,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ri",
+						"right"
+					],
+					[
+						"count",
+						"countries"
+					],
+					[
+						"cou",
+						"countries"
+					],
+					[
+						"fet",
+						"fetching"
+					],
+					[
+						"tw",
+						"tweets"
+					],
+					[
+						"redu",
+						"reducer"
+					],
+					[
+						"coll",
+						"collapsed"
+					],
+					[
+						"ac",
+						"archives"
+					],
+					[
+						"col",
+						"collapsed"
+					],
+					[
+						"co",
+						"collapsed"
+					],
+					[
+						"web",
+						"webpack"
+					],
+					[
+						"FE",
+						"FETCH_USERS_ERROR"
+					],
+					[
+						"dat",
+						"dataType"
+					],
+					[
+						"comm",
+						"commentNodes"
+					],
+					[
+						"Comm",
+						"Comment"
+					],
+					[
+						"Com",
+						"Component"
+					],
+					[
+						"comme",
+						"CommentForm"
+					],
+					[
+						"di",
+						"divStyle"
+					],
+					[
+						"pro",
+						"props"
+					],
+					[
+						"React",
+						"ReactDOM"
+					],
+					[
+						"Rea",
+						"ReactDOM"
+					],
+					[
+						"get",
+						"getType"
+					],
+					[
+						"ap",
+						"applyAll"
+					],
+					[
+						"newS",
+						"newServerStudent"
+					],
+					[
+						"stu",
+						"students"
+					],
+					[
+						"st",
+						"student"
+					],
+					[
+						"schu",
+						"Schedule"
+					],
+					[
+						"items",
+						"itemsKey"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"lst",
+						"list-style"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"phone",
+						"phoneId"
+					],
+					[
+						"pho",
+						"phoneId"
+					],
+					[
+						"con",
+						"controller"
+					],
+					[
+						"err",
+						"errorHandler"
+					],
+					[
+						"erro",
+						"errorHandler"
+					],
+					[
+						"ge",
+						"getInstance"
+					],
+					[
+						"so",
+						"sortField"
+					],
+					[
+						"tru",
+						"truckBuilder"
+					],
+					[
+						"carr",
+						"carBuilder"
+					],
+					[
+						"Truc",
+						"TruckBuilder"
+					],
+					[
+						"loca",
+						"locationListCount"
+					],
+					[
+						"er",
+						"errors"
+					],
+					[
+						"em",
+						"employeeFactory"
+					],
+					[
+						"vi",
+						"viewM"
+					],
+					[
+						"Colle",
+						"Collections"
+					],
+					[
+						"Coll",
+						"Collections"
+					],
+					[
+						"Perso",
+						"Person"
+					],
+					[
+						"peo",
+						"peopleView"
+					],
+					[
+						"Peo",
+						"PeopleView"
+					],
+					[
+						"Per",
+						"Person"
+					],
+					[
+						"gro",
+						"groupsRender"
+					],
+					[
+						"gor",
+						"groupList"
+					],
+					[
+						"va",
+						"validateInput"
+					],
+					[
+						"se",
+						"searchView"
+					],
+					[
+						"Se",
+						"searchView"
+					],
+					[
+						"Cha",
+						"chapters"
+					],
+					[
+						"sor",
+						"sort_key"
+					],
+					[
+						"ren",
+						"render"
+					],
+					[
+						"border-co",
+						"border-collapse"
+					],
+					[
+						"e",
+						"e5e5e5"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"tex",
+						"text-indent"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"edi",
+						"editCountry"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"pr",
+						"previousView"
+					],
+					[
+						"coun",
+						"countriesView"
+					],
+					[
+						"re",
+						"results"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"cre",
+						"createBody"
+					],
+					[
+						"render",
+						"renderOne"
+					],
+					[
+						"Co",
+						"Collection"
+					],
+					[
+						"reuq",
+						"requestHandlers"
+					],
+					[
+						"_r",
+						"_create"
+					],
+					[
+						"route",
+						"routeKey"
+					],
+					[
+						"fa",
+						"facadeReply"
+					],
+					[
+						"sub",
+						"subscribe"
+					],
+					[
+						"cha",
+						"channels"
+					],
+					[
+						"su",
+						"subscribe"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"box-",
+						"box-sizing"
+					],
+					[
+						"pa",
+						"parameters"
+					],
+					[
+						"fi",
+						"fileExists"
+					],
+					[
+						"som",
+						"someMethod"
+					],
+					[
+						"s",
+						"Surrogat"
+					],
+					[
+						"set",
+						"setWaterAmount"
+					],
+					[
+						"Cre",
+						"Creatures"
+					],
+					[
+						"_",
+						"_color"
+					],
+					[
+						"gree",
+						"greenCounterM"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"butt",
+						"buttonGreenM"
+					],
+					[
+						"buttonBlue",
+						"buttonBlueM"
+					],
+					[
+						"lis",
+						"listener"
+					],
+					[
+						"medi",
+						"mediator"
+					],
+					[
+						"cove",
+						"conversation"
+					],
+					[
+						"crea",
+						"createBox"
+					],
+					[
+						"dia",
+						"dialogue"
+					],
+					[
+						"dial",
+						"dialogues"
+					],
+					[
+						"messa",
+						"messages"
+					],
+					[
+						"sen",
+						"sendMessage"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"attr",
+						"_attributes"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"il",
+						"inline-block"
+					],
+					[
+						"t",
+						"top"
+					],
+					[
+						"table-",
+						"table-footer-group"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"d",
+						"dialogue"
+					],
+					[
+						"str",
+						"strF"
+					],
+					[
+						"even",
+						"eventButton"
+					],
+					[
+						"eve",
+						"eventId"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"_p",
+						"_phone"
+					],
+					[
+						"arr",
+						"arrHash"
+					],
+					[
+						"inputTe",
+						"inputTextNode"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/OpenServer/OpenServer/domains/gitRebase/main.js",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/package.json",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/app.js",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/routes/index.js",
+				"/C/Users/kiril/Desktop/Work/фразы.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/flex-asd/index.html",
+				"/E/OpenServer/OpenServer/domains/gitRebase/master.txt",
+				"/E/OpenServer/OpenServer/domains/gitRebase/iss53.txt",
+				"/E/Сервера/scripting/colored_translit_config.sma",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/flex-asd/main.css",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/countriesReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/App.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/countriesActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Add.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/store.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/main.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/List.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/index.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Layout.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/userReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/client.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/tweetsActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/userActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/tweetsReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/public/js/redux.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/index.html",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/src/js/main.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/bower.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/.bowerrc",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/main.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Description.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/App.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/client.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/client.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/client.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/npm-debug.log",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/.gitignore",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/css/main.css",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/css/main.css",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/tpl/changeTpl.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/tpl/addTpl.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/view/EditView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/view/AddView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/app.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/js/app/view/CountryView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/js/app/tpl/tplList.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Article.js",
+				"/C/Users/kiril/Desktop/Research/Redux.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/layout/Nav.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/css/main.css",
+				"/C/Users/kiril/Desktop/Research/React.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Layout.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Archives.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/layout/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Featured.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Settings.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Header/Title.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Header.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Layout.js",
+				"/C/Users/kiril/Desktop/Research/Sublime.txt",
+				"/C/Users/kiril/Desktop/Research/Webpack.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/components/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/index.html",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/js/scripts.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/script2.js, script3.js",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/js/__init__.py",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/script1.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/New Text Document.txt",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/redux.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/App.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/tutorial1.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/server.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/tutorial5.js",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.939/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/comments.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial5.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/app.js",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.751/server.php",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.895/app.json",
+				"/C/Users/kiril/AppData/Roaming/npm/node_modules/npm/html/doc/cli/npm-config.html",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.381/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial4.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial2.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial8.js",
+				"/C/Users/kiril/.gitignore_global",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/nums.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/webpack.config.js",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/dist/all.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/gulpfile.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/dist/app.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/server.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/main.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/package.json",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/components/Counter.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/screencast-express/views/partials/topMenu.ejs",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/screencast-express/package.json",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/gof/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/utils/System.js",
+				"/E/OpenServer/OpenServer/domains/learnjs/phones.json",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/main.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/view/createEditStudent/CreateStudentView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/Controller.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/model/Students.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"E:\\OpenServer\\OpenServer\\domains\\softserve.lc\\Caesar\\admin",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ex",
+					"continue",
+					"#country-choose ul",
+					"border: 1px solid #e5e5e5",
+					"Students: create-request",
+					"CreateStudentView",
+					"Students",
+					"students",
+					"groups",
+					"StudentsView",
+					"Students: groups selected",
+					"StudentListView",
+					"groupInfoView",
+					"students",
+					"GroupView",
+					"Students: groups selected",
+					"Locations student: selected",
+					"MyGroups Students: selected",
+					"Schedule",
+					"small",
+					"Students: rendered",
+					"lib",
+					"showSelectedGroup",
+					"showGroupViewByRoute",
+					"info",
+					"Groups: stubView-changed",
+					"MyGroups Students: selected",
+					"editBtn",
+					"template",
+					"students",
+					"temp",
+					"StudentListView",
+					"initLocation",
+					"showLocationByRoute",
+					"Locations: selected",
+					"groupLocation",
+					"content",
+					"Groups: selected",
+					"Locations: forRouter",
+					"ContentView",
+					"Students: groups selected",
+					"Locations: selected",
+					"RENDER IN STUDENTS",
+					"Locations: selected",
+					"showLocationByRoute",
+					"        openLocation: function (loc, gN) {\n            console.log(loc);\n            console.log(gN);\n        },",
+					"ContentView",
+					"Locations: selected",
+					"Students: groups selected",
+					"start",
+					"Menu: changed-page",
+					"openWindowLocations",
+					"showLocationByRoute",
+					"openLocation",
+					"students",
+					"subRouters",
+					"comment--",
+					"comment--text",
+					"active",
+					"items--list",
+					"comment--list",
+					"comment--text",
+					"--text",
+					".items .items--list li:after, li.item__active:before",
+					"li a",
+					"li.item__active:before",
+					"del",
+					"det",
+					"detete",
+					"labe",
+					"label",
+					"right",
+					"#",
+					"js",
+					"router",
+					"ro",
+					"http",
+					"Finish date",
+					"Finish date can't be earlier than Start date!",
+					"Menu: Locations",
+					">\n",
+					"user",
+					"User",
+					"user",
+					"User: on-invalid",
+					"moment",
+					"photo",
+					"User: on-invalid",
+					"CS.Messenger",
+					"show-error-page",
+					"404",
+					"user-info",
+					"validation",
+					"user-info",
+					"Incorrect login or password",
+					"preload",
+					"subscribe",
+					"Preload",
+					"subscr",
+					"lib",
+					"mediator",
+					"Preload",
+					"boots",
+					"bootr",
+					"container",
+					"none",
+					"	// (function loader() {\n	// 	let key = {\n	// 			'first': 'Soft',\n	// 			'second': 'Serve'\n	// 		};\n\n	// 	$('body').append(_.template(tpl['loader'], key));\n	// })();",
+					"del",
+					"h1",
+					"edit",
+					"table",
+					"pulse",
+					"anim",
+					"'",
+					"get",
+					"metho",
+					"li",
+					"span",
+					"on call",
+					"']);",
+					"Full",
+					"echo",
+					"toggle",
+					"log",
+					"12375",
+					"12300",
+					" )"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"css\\main.css"
+					],
+					[
+						"pp",
+						"bower_components\\jquery\\src\\attributes\\support.js"
+					],
+					[
+						"cont",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"con",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"conto",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"config.",
+						"vendor\\classpreloader\\classpreloader\\src\\Config.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"create_art",
+						"database\\migrations\\2016_03_30_210207_create_articles_table.php"
+					],
+					[
+						"articl",
+						"app\\Article.php"
+					],
+					[
+						".ev",
+						".env"
+					],
+					[
+						"page",
+						"app\\Http\\Controllers\\PagesController.php"
+					],
+					[
+						"ro",
+						"app\\Http\\routes.php"
+					],
+					[
+						"rou",
+						"app\\Http\\routes.php"
+					],
+					[
+						"authenticatesusers",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+					],
+					[
+						"andregi",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+					],
+					[
+						"rout",
+						"app\\Http\\routes.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"$cons"
+					]
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1195.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ri",
+						"right"
+					],
+					[
+						"count",
+						"countries"
+					],
+					[
+						"cou",
+						"countries"
+					],
+					[
+						"fet",
+						"fetching"
+					],
+					[
+						"tw",
+						"tweets"
+					],
+					[
+						"redu",
+						"reducer"
+					],
+					[
+						"coll",
+						"collapsed"
+					],
+					[
+						"ac",
+						"archives"
+					],
+					[
+						"col",
+						"collapsed"
+					],
+					[
+						"co",
+						"collapsed"
+					],
+					[
+						"web",
+						"webpack"
+					],
+					[
+						"FE",
+						"FETCH_USERS_ERROR"
+					],
+					[
+						"dat",
+						"dataType"
+					],
+					[
+						"comm",
+						"commentNodes"
+					],
+					[
+						"Comm",
+						"Comment"
+					],
+					[
+						"Com",
+						"Component"
+					],
+					[
+						"comme",
+						"CommentForm"
+					],
+					[
+						"di",
+						"divStyle"
+					],
+					[
+						"pro",
+						"props"
+					],
+					[
+						"React",
+						"ReactDOM"
+					],
+					[
+						"Rea",
+						"ReactDOM"
+					],
+					[
+						"get",
+						"getType"
+					],
+					[
+						"ap",
+						"applyAll"
+					],
+					[
+						"newS",
+						"newServerStudent"
+					],
+					[
+						"stu",
+						"students"
+					],
+					[
+						"st",
+						"student"
+					],
+					[
+						"schu",
+						"Schedule"
+					],
+					[
+						"items",
+						"itemsKey"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"lst",
+						"list-style"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"text",
+						"textarea	Tag"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"phone",
+						"phoneId"
+					],
+					[
+						"pho",
+						"phoneId"
+					],
+					[
+						"con",
+						"controller"
+					],
+					[
+						"err",
+						"errorHandler"
+					],
+					[
+						"erro",
+						"errorHandler"
+					],
+					[
+						"ge",
+						"getInstance"
+					],
+					[
+						"so",
+						"sortField"
+					],
+					[
+						"tru",
+						"truckBuilder"
+					],
+					[
+						"carr",
+						"carBuilder"
+					],
+					[
+						"Truc",
+						"TruckBuilder"
+					],
+					[
+						"loca",
+						"locationListCount"
+					],
+					[
+						"er",
+						"errors"
+					],
+					[
+						"em",
+						"employeeFactory"
+					],
+					[
+						"vi",
+						"viewM"
+					],
+					[
+						"Colle",
+						"Collections"
+					],
+					[
+						"Coll",
+						"Collections"
+					],
+					[
+						"Perso",
+						"Person"
+					],
+					[
+						"peo",
+						"peopleView"
+					],
+					[
+						"Peo",
+						"PeopleView"
+					],
+					[
+						"Per",
+						"Person"
+					],
+					[
+						"gro",
+						"groupsRender"
+					],
+					[
+						"gor",
+						"groupList"
+					],
+					[
+						"va",
+						"validateInput"
+					],
+					[
+						"se",
+						"searchView"
+					],
+					[
+						"Se",
+						"searchView"
+					],
+					[
+						"Cha",
+						"chapters"
+					],
+					[
+						"sor",
+						"sort_key"
+					],
+					[
+						"ren",
+						"render"
+					],
+					[
+						"border-co",
+						"border-collapse"
+					],
+					[
+						"e",
+						"e5e5e5"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"tex",
+						"text-indent"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"edi",
+						"editCountry"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"to",
+						"toggleClass"
+					],
+					[
+						"pr",
+						"previousView"
+					],
+					[
+						"coun",
+						"countriesView"
+					],
+					[
+						"re",
+						"results"
+					],
+					[
+						"data",
+						"database"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"cre",
+						"createBody"
+					],
+					[
+						"render",
+						"renderOne"
+					],
+					[
+						"Co",
+						"Collection"
+					],
+					[
+						"reuq",
+						"requestHandlers"
+					],
+					[
+						"_r",
+						"_create"
+					],
+					[
+						"route",
+						"routeKey"
+					],
+					[
+						"fa",
+						"facadeReply"
+					],
+					[
+						"sub",
+						"subscribe"
+					],
+					[
+						"cha",
+						"channels"
+					],
+					[
+						"su",
+						"subscribe"
+					],
+					[
+						"ch",
+						"channel"
+					],
+					[
+						"box-",
+						"box-sizing"
+					],
+					[
+						"pa",
+						"parameters"
+					],
+					[
+						"fi",
+						"fileExists"
+					],
+					[
+						"som",
+						"someMethod"
+					],
+					[
+						"s",
+						"Surrogat"
+					],
+					[
+						"set",
+						"setWaterAmount"
+					],
+					[
+						"Cre",
+						"Creatures"
+					],
+					[
+						"_",
+						"_color"
+					],
+					[
+						"gree",
+						"greenCounterM"
+					],
+					[
+						"text-",
+						"text-align"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"butt",
+						"buttonGreenM"
+					],
+					[
+						"buttonBlue",
+						"buttonBlueM"
+					],
+					[
+						"lis",
+						"listener"
+					],
+					[
+						"medi",
+						"mediator"
+					],
+					[
+						"cove",
+						"conversation"
+					],
+					[
+						"crea",
+						"createBox"
+					],
+					[
+						"dia",
+						"dialogue"
+					],
+					[
+						"dial",
+						"dialogues"
+					],
+					[
+						"messa",
+						"messages"
+					],
+					[
+						"sen",
+						"sendMessage"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"attr",
+						"_attributes"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"il",
+						"inline-block"
+					],
+					[
+						"t",
+						"top"
+					],
+					[
+						"table-",
+						"table-footer-group"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"d",
+						"dialogue"
+					],
+					[
+						"str",
+						"strF"
+					],
+					[
+						"even",
+						"eventButton"
+					],
+					[
+						"eve",
+						"eventId"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"_p",
+						"_phone"
+					],
+					[
+						"arr",
+						"arrHash"
+					],
+					[
+						"inputTe",
+						"inputTextNode"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/OpenServer/OpenServer/domains/gitRebase/index.html",
+					"settings":
+					{
+						"buffer_size": 139,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/ReHLDS ZM/Source/.gitignore",
+					"settings":
+					{
+						"buffer_size": 34,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/app.js",
+					"settings":
+					{
+						"buffer_size": 1545,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers"
+			],
+			"file_history":
+			[
+				"/E/OpenServer/OpenServer/domains/gitRebase/main.js",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/package.json",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/app.js",
+				"/E/OpenServer/OpenServer/domains/vk_mesages_sender/routes/index.js",
+				"/C/Users/kiril/Desktop/Work/фразы.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/flex-asd/index.html",
+				"/E/OpenServer/OpenServer/domains/gitRebase/master.txt",
+				"/E/OpenServer/OpenServer/domains/gitRebase/iss53.txt",
+				"/E/Сервера/scripting/colored_translit_config.sma",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/flex-asd/main.css",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/countriesReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/App.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/countriesActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Add.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/store.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/main.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/List.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/index.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Layout.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/userReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/client.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/tweetsActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/actions/userActions.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/reducers/tweetsReducer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/public/js/redux.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/babel/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/index.html",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/package.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut _count/src/js/main.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/bower.json",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/.bowerrc",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/main.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/components/Description.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/js/App.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/client.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/client.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/src/client.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/npm-debug.log",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/.gitignore",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Countries-list-react/css/main.css",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/css/main.css",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/tpl/changeTpl.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/tpl/addTpl.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/view/EditView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/public/js/app/view/AddView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/app.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/js/app/view/CountryView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/public/js/app/tpl/tplList.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Article.js",
+				"/C/Users/kiril/Desktop/Research/Redux.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/layout/Nav.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/css/main.css",
+				"/C/Users/kiril/Desktop/Research/React.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Layout.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Archives.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/layout/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Featured.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/pages/Settings.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Header/Title.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Header.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/src/js/components/Layout.js",
+				"/C/Users/kiril/Desktop/Research/Sublime.txt",
+				"/C/Users/kiril/Desktop/Research/Webpack.txt",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/React_tut/components/Footer.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/index.html",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/js/scripts.min.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/script2.js, script3.js",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/js/__init__.py",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/script1.js",
+				"/E/OpenServer/OpenServer/domains/LearnCode.academy/Webpack_tut/New Text Document.txt",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/redux.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/App.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/tutorial1.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/server.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/public/js/tutorial5.js",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.939/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/comments.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial5.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/app.js",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.751/server.php",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.895/app.json",
+				"/C/Users/kiril/AppData/Roaming/npm/node_modules/npm/html/doc/cli/npm-config.html",
+				"/C/Users/kiril/AppData/Local/Temp/Rar$DIa0.381/package.json",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial4.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial2.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/tutorial8.js",
+				"/C/Users/kiril/.gitignore_global",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/src/nums.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/webpack.config.js",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/dist/all.js",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/gulpfile.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/index.html",
+				"/E/OpenServer/OpenServer/domains/developerstoday/babel/dist/app.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/webpack.config.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/server.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/react/main.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/package.json",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/redux/redux/examples/counter/components/Counter.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/screencast-express/views/partials/topMenu.ejs",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/screencast-express/package.json",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/kiril/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/gof/index.html",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/utils/System.js",
+				"/E/OpenServer/OpenServer/domains/learnjs/phones.json",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/main.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/view/createEditStudent/CreateStudentView.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/Controller.js",
+				"/E/OpenServer/OpenServer/domains/softserve.lc/Caesar_temporary_repo/client/js/app/Students/model/Students.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"E:\\OpenServer\\OpenServer\\domains\\softserve.lc\\Caesar\\admin",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ex",
+					"continue",
+					"#country-choose ul",
+					"border: 1px solid #e5e5e5",
+					"Students: create-request",
+					"CreateStudentView",
+					"Students",
+					"students",
+					"groups",
+					"StudentsView",
+					"Students: groups selected",
+					"StudentListView",
+					"groupInfoView",
+					"students",
+					"GroupView",
+					"Students: groups selected",
+					"Locations student: selected",
+					"MyGroups Students: selected",
+					"Schedule",
+					"small",
+					"Students: rendered",
+					"lib",
+					"showSelectedGroup",
+					"showGroupViewByRoute",
+					"info",
+					"Groups: stubView-changed",
+					"MyGroups Students: selected",
+					"editBtn",
+					"template",
+					"students",
+					"temp",
+					"StudentListView",
+					"initLocation",
+					"showLocationByRoute",
+					"Locations: selected",
+					"groupLocation",
+					"content",
+					"Groups: selected",
+					"Locations: forRouter",
+					"ContentView",
+					"Students: groups selected",
+					"Locations: selected",
+					"RENDER IN STUDENTS",
+					"Locations: selected",
+					"showLocationByRoute",
+					"        openLocation: function (loc, gN) {\n            console.log(loc);\n            console.log(gN);\n        },",
+					"ContentView",
+					"Locations: selected",
+					"Students: groups selected",
+					"start",
+					"Menu: changed-page",
+					"openWindowLocations",
+					"showLocationByRoute",
+					"openLocation",
+					"students",
+					"subRouters",
+					"comment--",
+					"comment--text",
+					"active",
+					"items--list",
+					"comment--list",
+					"comment--text",
+					"--text",
+					".items .items--list li:after, li.item__active:before",
+					"li a",
+					"li.item__active:before",
+					"del",
+					"det",
+					"detete",
+					"labe",
+					"label",
+					"right",
+					"#",
+					"js",
+					"router",
+					"ro",
+					"http",
+					"Finish date",
+					"Finish date can't be earlier than Start date!",
+					"Menu: Locations",
+					">\n",
+					"user",
+					"User",
+					"user",
+					"User: on-invalid",
+					"moment",
+					"photo",
+					"User: on-invalid",
+					"CS.Messenger",
+					"show-error-page",
+					"404",
+					"user-info",
+					"validation",
+					"user-info",
+					"Incorrect login or password",
+					"preload",
+					"subscribe",
+					"Preload",
+					"subscr",
+					"lib",
+					"mediator",
+					"Preload",
+					"boots",
+					"bootr",
+					"container",
+					"none",
+					"	// (function loader() {\n	// 	let key = {\n	// 			'first': 'Soft',\n	// 			'second': 'Serve'\n	// 		};\n\n	// 	$('body').append(_.template(tpl['loader'], key));\n	// })();",
+					"del",
+					"h1",
+					"edit",
+					"table",
+					"pulse",
+					"anim",
+					"'",
+					"get",
+					"metho",
+					"li",
+					"span",
+					"on call",
+					"']);",
+					"Full",
+					"echo",
+					"toggle",
+					"log",
+					"12375",
+					"12300",
+					" )"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\OpenServer\\OpenServer\\domains\\LearnCode.academy\\Countries-list-react"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/OpenServer/OpenServer/domains/gitRebase/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/ReHLDS ZM/Source/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/OpenServer/OpenServer/domains/softserve.lc/ss-11-countries-backbone/server/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1545,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1545,
+										1395
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 360.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,565,26,26,1237",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"css\\main.css"
+					],
+					[
+						"pp",
+						"bower_components\\jquery\\src\\attributes\\support.js"
+					],
+					[
+						"cont",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"con",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"conto",
+						"public\\js\\app\\ControllerInfo.js"
+					],
+					[
+						"config.",
+						"vendor\\classpreloader\\classpreloader\\src\\Config.php"
+					],
+					[
+						"route",
+						"app\\Http\\routes.php"
+					],
+					[
+						"create_art",
+						"database\\migrations\\2016_03_30_210207_create_articles_table.php"
+					],
+					[
+						"articl",
+						"app\\Article.php"
+					],
+					[
+						".ev",
+						".env"
+					],
+					[
+						"page",
+						"app\\Http\\Controllers\\PagesController.php"
+					],
+					[
+						"ro",
+						"app\\Http\\routes.php"
+					],
+					[
+						"rou",
+						"app\\Http\\routes.php"
+					],
+					[
+						"authenticatesusers",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+					],
+					[
+						"andregi",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
+					],
+					[
+						"rout",
+						"app\\Http\\routes.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"$cons"
+					]
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 180,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
